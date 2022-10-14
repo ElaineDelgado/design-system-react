@@ -13,7 +13,7 @@ Projeto em React utilizando Storybook, onde foi criado um Design System no Figma
   O deploy do Storybook foi feito com Storybook Deployer
 </p>
 <h3>Storybook do projeto: </h3>
-<h4> <a href="https://app.netlify.app">Clique aqui para ver demo do Storybook  :sparkles: </a></h4>
+<h4> <a href="https://elainedelgado.github.io/design-system-react">Clique aqui para ver demo do Storybook  :sparkles: </a></h4>
 
 
 <p align="center">
@@ -76,7 +76,6 @@ As seguintes tecnologias e ferramentas foram utilizadas nesse projeto:
 - Storybook
 - storybook-deployer
 
-
 ## :white_check_mark: Requerimentos ##
 
 Antes de começar: :checkered_flag:, você precisa ter [Git](https://git-scm.com) e [Node](https://nodejs.org/en/) instalados.
@@ -99,9 +98,7 @@ $ npm run dev
 # Rode o projeto Storybook:
 $ npm run storybook
 
-# O servidor irá incializar em: <http://localhost:3000>
-```
-
+# O servidor irá incializar em: <http://localhost:3000>`
 
 
 Feito com :heart: por <a href="https://github.com/ElaineDelgado" target="_blank">Elaine Delgado</a>
