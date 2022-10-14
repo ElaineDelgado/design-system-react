@@ -19,6 +19,4 @@ export default {
   ],
 } as Meta<CheckboxProps>
 
-export const Default: StoryObj<CheckboxProps> = {
-//  ja é md por padrão
-}
+export const Default: StoryObj<CheckboxProps> = {}

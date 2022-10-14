@@ -19,7 +19,7 @@ export default {
   argTypes: {
     children: {
       table: {
-        disable: false
+        disable: true
       }
     }
   }

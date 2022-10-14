@@ -42,12 +42,12 @@ export const CustomTagComponent: StoryObj<HeadingProps> = {
   argTypes: {
     children: {
       table: {
-        disable: false
+        disable: true
       }
     },
     asChild: {
       table: {
-        disable: false
+        disable: true
       }
     },
   }

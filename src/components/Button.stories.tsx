@@ -13,6 +13,4 @@ export default {
   },
 } as Meta<ButtonProps>
 
-export const Default: StoryObj<ButtonProps> = {
-//  ja é md por padrão
-}
+export const Default: StoryObj<ButtonProps> = {}
