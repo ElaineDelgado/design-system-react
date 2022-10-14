@@ -1,90 +1,110 @@
 <div align="center" id="top"> 
   <img src="./.github/app.gif" alt="App" />
-
-  &#xa0;
-
-  <!-- <a href="https://app.netlify.app">Demo</a> -->
+  &#xa0;  
 </div>
 
-<h1 align="center">App</h1>
+<h1 align="center">Ignite Lab Design System  + React</h1>
 
 <p align="center">
-Projeto em react utilizando Storybook, onde foi criado um Design System para o projeto.
+Projeto em React utilizando Storybook, onde foi criado um Design System no Figma para o projeto.
 </p>
 
 <p align="center">
   O deploy do Storybook foi feito com Storybook Deployer
 </p>
+<h3>Storybook do projeto: </h3>
+<h4> <a href="https://app.netlify.app">Clique aqui para ver demo do Storybook  :sparkles: </a></h4>
 
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/ElaineDelgado/app?color=56BEB8">
-
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/ElaineDelgado/app?color=56BEB8">
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/ElaineDelgado/app?color=56BEB8">
-
-  <img alt="License" src="https://img.shields.io/github/license/ElaineDelgado/app?color=56BEB8">
-
-</p>
-
-
-
-<p align="center">
-  <a href="#dart-about">About</a> &#xa0; | &#xa0; 
-  <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
-  <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
-  <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
-  <a href="#memo-license">License</a> &#xa0; | &#xa0;
-  <a href="https://github.com/ElaineDelgado" target="_blank">Author</a>
+  <a href="#dart-about">Sobre</a> &#xa0; | &#xa0; 
+  <a href="#rocket-technologies">Tecnologias </a> &#xa0; | &#xa0;
+  <a href="#white_check_mark-requirements">Requerimentos</a> &#xa0; | &#xa0;
+  <a href="#checkered_flag-starting">Inicializando</a> &#xa0; | &#xa0;
 </p>
 
 <br>
 
-## :dart: About ##
+## :dart: Sobre ##
+<p align="center">
+  Nesse Ignite Lab foi criado um projeto em React com um Design System próprio também criado durante o evento. 
+  Utilizamos o Storybook, uma ferramenta que tem como objetivo servir de ambiente isolado para criar componentes. O Storybook é uma ferramenta opensource que prepara     um ambiente de desenvolvimento para componentes de UI.
+</p>
 
-Describe your project
+<br>
+<br>
+<h4 align="center">
+ :sparkles:  Figma do Design System: 
+</h4>
+<br>
 
-## :sparkles: Features ##
+<p align="center">
+  <img src="https://i.imgur.com/4MZWlUm.png" width="500" />
+</p>
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+<h4 align="center">
+ :sparkles:  Formulário em React: 
+</h4>
 
-## :rocket: Technologies ##
+<br>
 
-The following tools were used in this project:
+<p align="center">
+  <img src="https://i.imgur.com/f0JBHck.png" width="500" />
+</p>
+
+<br>
+<br>
+
+<h4 align="center">
+ :sparkles:  Storybook dos componentes da aplicação: 
+</h4>
+<br>
+
+<p align="center">
+  <img src="https://i.imgur.com/ZqpFr5v.png" width="500" />
+</p>
+  
+## :rocket: Tecnologias ##
+
+As seguintes tecnologias e ferramentas foram utilizadas nesse projeto:
+
+- Figma
+- React
+- Typescript
+- Tailwindcss
+- Radix
+- Storybook
+- storybook-deployer
 
 
-- [React](https://pt-br.reactjs.org/)
-- [TypeScript](https://www.typescriptlang.org/)
+## :white_check_mark: Requerimentos ##
 
-## :white_check_mark: Requirements ##
+Antes de começar: :checkered_flag:, você precisa ter [Git](https://git-scm.com) e [Node](https://nodejs.org/en/) instalados.
 
-Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
-
-## :checkered_flag: Starting ##
+## :checkered_flag: Inicializando ##
 
 ```bash
-# Clone this project
+# Clone esse projeto:
 $ git clone https://github.com/ElaineDelgado/app
 
-# Access
+# Acesse:
 $ cd app
 
-# Install dependencies
+# Instale as dependências: 
 $ npm install
 
-# Run the project
+# Rode o projeto React:
 $ npm run dev
 
-# The server will initialize in the <http://localhost:3000>
+# Rode o projeto Storybook:
+$ npm run storybook
+
+# O servidor irá incializar em: <http://localhost:3000>
 ```
 
 
 
-Made with :heart: by <a href="https://github.com/ElaineDelgado" target="_blank">Elaine Delgado</a>
+Feito com :heart: por <a href="https://github.com/ElaineDelgado" target="_blank">Elaine Delgado</a>
 
 &#xa0;
 
